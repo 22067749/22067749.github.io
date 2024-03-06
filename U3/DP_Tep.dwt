@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<!-- #BeginEditable "doctitle" -->
+<title>Untitled 1</title>
+<!-- #EndEditable -->
+<style type="text/css">
+.auto-style1 {
+	text-align: right;
+}
+.auto-style2 {
+	font-size: 15pt;
+	text-align: center;
+	font-family: Lato;
+}
+.auto-style3 {
+	text-align: center;
+	color: #14ABB2;
+	font-size: 30pt;
+	font-family: Arvo;
+}
+.auto-style4 {
+	font-size: 15pt;
+}
+.auto-style5 {
+	border-width: 0px;
+}
+.auto-style6 {
+	font-size: 15pt;
+	text-align: right;
+	font-family: Lato;
+}
+</style>
+</head>
+
+<body style="font-family: Arvo; width: 960px; margin-left: auto; quot:; margin-right: auto;">
+
+	<p class="auto-style1">
+	<a href="index.htm">
+	<img alt="Banner" height="200" src="Image/Banner.png" width="960" class="auto-style5" /></a></p>
+	<p class="auto-style1"><span class="auto-style4"> <a href="index.htm">Homepage</a><a href="education.htm">&nbsp; Education</a>&nbsp;&nbsp; <a href="unit13.htm">
+	Unit 13</a>&nbsp;&nbsp;
+	<a href="unit1_2.htm">Unit 1&amp;2</a>&nbsp;&nbsp; <a href="unit17.htm">
+	Unit 17</a>&nbsp; &nbsp;<a href="unit8.htm">Unit 8</a>&nbsp; 
+	</span> </p>
+<!-- #BeginEditable "body" -->
+<h1 class="auto-style3">Title of the page</h1>
+	<p class="auto-style2">Text</p>
+	<p class="auto-style6"><a href="index.htm"><span class="auto-style4">Homepage</span></a><a href="education.htm"><span class="auto-style4">&nbsp; Education</span></a>&nbsp;&nbsp; <a href="unit13.htm">
+	<span class="auto-style4">Unit 13</span></a>&nbsp;&nbsp;
+	<a href="unit1_2.htm"><span class="auto-style4">Unit 1&amp;2</span></a>&nbsp;&nbsp; <a href="unit17.htm">
+	<span class="auto-style4">Unit 17</span></a>&nbsp; &nbsp;<a href="unit8.htm"><span class="auto-style4">Unit 8</span></a><span class="auto-style4">  
+	</span> </p>
+<!-- #EndEditable -->
+
+</body>
+
+</html>
